@@ -73,9 +73,10 @@
 ---
 
 ### 😂 Random Dev Meme  
-<img src="https://preview.redd.it/your-static-image.jpg?width=640&crop=smart&auto=webp&s=hash" width="512px"/>
+<img src="https://preview.redd.it/9n4vfrc4c8p81.jpg?width=640&crop=smart&auto=webp&s=5f4a8d1f7e0f4b2c6f6d4f23d2c87b8f6e0c1b2a" width="512px"/>
 
 ---
 
 [![](https://visitcount.itsvg.in/api?id=Pyasma&icon=0&color=0)](https://visitcount.itsvg.in)
+
 
