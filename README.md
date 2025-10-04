@@ -12,7 +12,7 @@
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white&style=for-the-badge" alt="LinkedIn"/>
   </a>
   <a href="https://x.com/PranyaSharma?t=ha3ndim0VkrDKeT3Egs_Gg&s=09" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=twitter&logoColor=white&style=for-the-badge" alt="Twitter"/>
+    <img src="https://img.shields.io/badge/X-%231DA1F2.svg?logo=x&logoColor=white&style=for-the-badge" alt="X"/>
   </a>
 </p>
 
