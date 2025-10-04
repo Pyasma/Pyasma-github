@@ -64,16 +64,16 @@
 
 ---
 
+### 💬 Hard Work & Perseverance Quote
+
+> “Even if the black coffin luck on him intensified, even if powerful enemies surrounded him and the wind veil of assimilation isolated everything from the world, heaven would never seal all of one’s paths! There was no absolutely desperate situation in this world, there were only people who despair. The answer to resolving problems will always be in our own hands; when we inspect our inner hearts, we will find that the miraculous heavenly power was in ourselves all along! To discover oneself, to recognize oneself, and to rely on oneself!”  
+> — Fang Yuan, *Reverend Insanity*, Chapter 647  
+
 ---
-
-### 💬 Favorite Coding Quote  
-> “Any fool can write code that a computer can understand. Good programmers write code that humans can understand.”  
-> — Martin Fowler
-
+🎧 [Lofi Hip Hop Radio – Beats to Relax/Study To]([https://www.youtube.com/watch?v=5qap5aO4i9A](https://www.youtube.com/watch?v=jfKfPfyJRdk))
 ---
-
 ### 😂 Random Dev Meme  
-<img src="https://preview.redd.it/9n4vfrc4c8p81.jpg?width=640&crop=smart&auto=webp&s=5f4a8d1f7e0f4b2c6f6d4f23d2c87b8f6e0c1b2a" width="512px"/>
+<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.reddit.com%2Fr%2FProgrammerHumor%2Fcomments%2F11li031%2Fai_will_replace_us%2F&psig=AOvVaw2Bl3jnNCIIJL0BFVRy-0BN&ust=1759660735286000&source=images&cd=vfe&opi=89978449&ved=0CBUQjRxqFwoTCPCN7JqtipADFQAAAAAdAAAAABAE" width="512px"/>
 
 ---
 
