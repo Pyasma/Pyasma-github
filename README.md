@@ -70,13 +70,5 @@
 > — Fang Yuan, *Reverend Insanity*, Chapter 647  
 
 ---
-🎧 [Lofi Hip Hop Radio – Beats to Relax/Study To]([https://www.youtube.com/watch?v=5qap5aO4i9A](https://www.youtube.com/watch?v=jfKfPfyJRdk))
----
-### 😂 Random Dev Meme  
-<img src="https://www.reddit.com/media?url=https%3A%2F%2Fpreview.redd.it%2Fai-will-replace-us-v0-khze3fa53fma1.png%3Fwidth%3D320%26crop%3Dsmart%26auto%3Dwebp%26s%3D76b564449444db923bdee30000bf3a9106064b53"/>
-
----
-
-[![](https://visitcount.itsvg.in/api?id=Pyasma&icon=0&color=0)](https://visitcount.itsvg.in)
 
 
