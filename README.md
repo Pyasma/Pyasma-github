@@ -64,7 +64,7 @@
 
 ---
 
-### 💬 Hard Work & Perseverance Quote
+### 💬 Hard Work & Perseverance 
 
 > “Even if the black coffin luck on him intensified, even if powerful enemies surrounded him and the wind veil of assimilation isolated everything from the world, heaven would never seal all of one’s paths! There was no absolutely desperate situation in this world, there were only people who despair. The answer to resolving problems will always be in our own hands; when we inspect our inner hearts, we will find that the miraculous heavenly power was in ourselves all along! To discover oneself, to recognize oneself, and to rely on oneself!”  
 > — Fang Yuan, *Reverend Insanity*, Chapter 647  
