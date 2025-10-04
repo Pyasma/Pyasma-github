@@ -73,7 +73,7 @@
 🎧 [Lofi Hip Hop Radio – Beats to Relax/Study To]([https://www.youtube.com/watch?v=5qap5aO4i9A](https://www.youtube.com/watch?v=jfKfPfyJRdk))
 ---
 ### 😂 Random Dev Meme  
-<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.reddit.com%2Fr%2FProgrammerHumor%2Fcomments%2F11li031%2Fai_will_replace_us%2F&psig=AOvVaw2Bl3jnNCIIJL0BFVRy-0BN&ust=1759660735286000&source=images&cd=vfe&opi=89978449&ved=0CBUQjRxqFwoTCPCN7JqtipADFQAAAAAdAAAAABAE" width="512px"/>
+<img src="https://www.reddit.com/media?url=https%3A%2F%2Fpreview.redd.it%2Fai-will-replace-us-v0-khze3fa53fma1.png%3Fwidth%3D320%26crop%3Dsmart%26auto%3Dwebp%26s%3D76b564449444db923bdee30000bf3a9106064b53"/>
 
 ---
 
