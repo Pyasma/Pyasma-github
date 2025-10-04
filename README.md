@@ -64,13 +64,18 @@
 
 ---
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Pyasma&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+---
+
+### 💬 Favorite Coding Quote  
+> “Any fool can write code that a computer can understand. Good programmers write code that humans can understand.”  
+> — Martin Fowler
 
 ---
 
-### 😂 Random Dev Meme
-<img src="https://random-memer.herokuapp.com/" width="512px"/>
+### 😂 Random Dev Meme  
+<img src="https://preview.redd.it/your-static-image.jpg?width=640&crop=smart&auto=webp&s=hash" width="512px"/>
 
 ---
+
 [![](https://visitcount.itsvg.in/api?id=Pyasma&icon=0&color=0)](https://visitcount.itsvg.in)
+
