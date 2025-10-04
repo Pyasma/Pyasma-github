@@ -72,7 +72,10 @@
 ---
 
 ### 📝 My Blog
-[![Blog Banner](https://cdn.hashnode.com/res/hashnode/image/stock/unsplash/KPAQpJYzH0Y/upload/fec95f1f2ee16099cb01dd046278af10.jpeg?w=1600&h=840&fit=crop&crop=entropy&auto=compress,format&format=webp)](https://git-for-everyone.hashnode.dev/git-guide-your-projects-storybook)
+<a href="https://git-for-everyone.hashnode.dev/git-guide-your-projects-storybook">
+  <img src="https://cdn.hashnode.com/res/hashnode/image/stock/unsplash/KPAQpJYzH0Y/upload/fec95f1f2ee16099cb01dd046278af10.jpeg?w=1600&h=840&fit=crop&crop=entropy&auto=compress,format&format=webp" width="400" height="200" alt="Blog Banner"/>
+</a>
+
 
 ---
 
