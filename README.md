@@ -51,7 +51,7 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="40" height="40" alt="MongoDB"/>
   </a>
   <a href="https://github.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="100" alt="GitHub"/>
+    <img src="https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png" width="40" height="40" alt="GitHub"/>
   </a>
 </p>
 
