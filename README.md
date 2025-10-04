@@ -11,7 +11,9 @@
   <a href="https://www.linkedin.com/in/piyush-mudgal?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white&style=for-the-badge" alt="LinkedIn"/>
   </a>
-  <a href="https://github.com/" target="_blank"> <img src="[https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg](https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg)" width="40" height="40" alt="GitHub"/> </a>
+  <a href="https://x.com/PranyaSharma?t=ha3ndim0VkrDKeT3Egs_Gg&s=09" target="_blank">
+    <img src="https://img.shields.io/badge/X-%231DA1F2.svg?logo=x&logoColor=white&style=for-the-badge" alt="X"/>
+  </a>
 </p>
 
 ---
@@ -49,7 +51,7 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="40" height="40" alt="MongoDB"/>
   </a>
   <a href="https://github.com/" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-%23181717?style=for-the-badge&logo=github&logoColor=white" width="100" alt="GitHub"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="100" alt="GitHub"/>
   </a>
 </p>
 
