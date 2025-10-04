@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Pyasma</h1>
+<h1 align="center">Hi 👋, I'm Pyasma from India</h1>
 <h3 align="center">A passionate Software Engineer</h3>
 
 ---
