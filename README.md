@@ -90,11 +90,13 @@
   <p align="center">
     <img src="https://pixel-profile.vercel.app/api/github-stats?username=Pyasma&screen_effect=true&theme=crt" width="650" alt="Pyasma Contributions" />
   </p>
+  <br>
 
   <a href="https://buymeacoffee.com/pranyashar4" target="_blank">
     <img src="https://cdn.buymeacoffee.com/buttons/v2/default-blue.png" alt="Buy Me A Coffee" style="height: 50px !important;width: 200px !important;" >
   </a>
-
+  <br>
+  <br>
   <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3aDZrYXY2YXh6MjQzbnZrdjJxcG5vc2RvZ2NuZ3Vqd29uNTdodHM2cyZlcD12MV9naWZzX3JlbGF0ZWQmY3Q9Zw/T4DwzWhfZpJfh4A3U2/giphy.gif" alt="Bottom Animation"/>
 
 
@@ -104,6 +106,6 @@
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Pyasma/Pyasma/output/github-snake.svg" />
     <img alt="github-snake" src="https://raw.githubusercontent.com/Pyasma/Pyasma/output/github-snake.svg" />
   </picture>
-  
+
 </div>
  
