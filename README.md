@@ -1,24 +1,34 @@
-<p align="center">
+<div align="center">
   <img alt="Terminal Intro" 
        src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=6000&pause=500&color=9966CC&bg=F5F5FF&width=650&lines=$+echo+'Hello,+I%27m+Pyasma!';$+echo+'I+build+websites+and+apps';$+node+run_projects.js;All+systems+online!;$+git+status" />
-</p>
-
-
-<!-- Short Bio -->
-<p align="center">
-  I craft original, high-performance web apps — no templates, no fluff. <br/>
-  Pixels, performance, precision — every line intentional. <br/>
-  <a href="#" target="_blank">Portfolio</a> • 
-  <a href="https://github.com/Pyasma" target="_blank">GitHub</a>
-</p>
-
-</p>
- <div align="center">
-
-[![X](https://img.shields.io/badge/-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/Pyasma)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/piyush-mudgal)
-
 </div>
+
+
+
+<div align="center">
+  <!-- Short Bio with image links -->
+  <p>
+    I craft original, high-performance web apps — no templates, no fluff. <br/>
+    Pixels, performance, precision — every line intentional. <br/>
+    <a href="#" target="_blank">
+      <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=appveyor&logoColor=white" alt="Portfolio"/>
+    </a>
+    <a href="https://github.com/Pyasma" target="_blank">
+      <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+    </a>
+  </p>
+
+  <!-- Social Badges -->
+  <p>
+    <a href="https://x.com/Pyasma" target="_blank">
+      <img src="https://img.shields.io/badge/-X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X"/>
+    </a>
+    <a href="https://www.linkedin.com/in/piyush-mudgal" target="_blank">
+      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    </a>
+  </p>
+</div>
+
 
   <p><img align="right" src="https://github-readme-stats.vercel.app/api?username=Pyasma&show_icons=true&theme=tokyonight" alt="Pyasma" /></p>
 <div>
