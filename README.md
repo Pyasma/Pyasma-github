@@ -21,12 +21,15 @@
 </div>
 
   <p><img align="right" src="https://github-readme-stats.vercel.app/api?username=Pyasma&show_icons=true&theme=tokyonight" alt="Pyasma" /></p>
-<div>💻 Tech Stack:: </div>
+<div>
+<h3 style="color:#9966CC">💻 Tech Stack</h3>
 <br>
+</div>
+
 <div height="10"></div>
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-  <img width="12" height="12" />
+  <img width="12"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
