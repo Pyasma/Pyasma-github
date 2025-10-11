@@ -1,4 +1,6 @@
 <div align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3Nsd3J2Ynl5NDZvNWk3aG4yajVlejBxYnlzcjUwaXRkMzhkY280bSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/NKEt9elQ5cR68/giphy.gif" alt="Animation"/>
+  <br>
   <img alt="Terminal Intro" 
        src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=6000&pause=500&color=9966CC&bg=F5F5FF&width=650&lines=$+echo+'Hello,+I%27m+Pyasma!';$+echo+'I+build+websites+and+apps';$+node+run_projects.js;All+systems+online!;$+git+status" />
 
@@ -87,20 +89,24 @@
   </div>
   <br>
 
-  <p align="center">
-    <img src="https://pixel-profile.vercel.app/api/github-stats?username=Pyasma&screen_effect=true&theme=crt" width="650" alt="Pyasma Contributions" />
-  </p>
-  <br>
+  <!-- <p align="center">
+    <img 
+      src="https://pixel-profile.vercel.app/api/github-stats?username=Pyasma&screen_effect=true&theme=crt" 
+      width="350" 
+      alt="Pyasma GitHub Stats"
+    />
+  </p> -->
+  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Pyasma&theme=tokyonight&background=0D1117&border=9966CC&ring=9966CC&fire=FF00FF&currStreakLabel=F5F5FF)](https://git.io/streak-stats)
+
+
+
+
 
   <a href="https://buymeacoffee.com/pranyashar4" target="_blank">
     <img src="https://cdn.buymeacoffee.com/buttons/v2/default-blue.png" alt="Buy Me A Coffee" style="height: 50px !important;width: 200px !important;" >
   </a>
   <br>
   <br>
-  <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3aDZrYXY2YXh6MjQzbnZrdjJxcG5vc2RvZ2NuZ3Vqd29uNTdodHM2cyZlcD12MV9naWZzX3JlbGF0ZWQmY3Q9Zw/T4DwzWhfZpJfh4A3U2/giphy.gif" alt="Bottom Animation"/>
-
-
-
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Pyasma/Pyasma/output/github-snake-dark.svg" />
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Pyasma/Pyasma/output/github-snake.svg" />
